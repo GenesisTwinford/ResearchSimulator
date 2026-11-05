@@ -3,5 +3,19 @@
     "sourceFiles": [
         "**/*.yarn"
     ],
-    "baseLanguage": "jp"
+    "baseLanguage": "jp",
+    "editorOptions": {
+        "yarnScriptEditor": {
+            "projectGraphPositions": {
+                "vsBBA.yarn": {
+                    "x": 12,
+                    "y": 12
+                },
+                "vsBUM.yarn": {
+                    "x": 420,
+                    "y": 500
+                }
+            }
+        }
+    }
 }
